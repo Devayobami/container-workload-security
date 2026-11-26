@@ -1,8 +1,9 @@
 .env
+.DS_Store
 secrets/
 *.log
 __pycache__/
 .pytest_cache/
 .venv/
 instructor/
-compose.hardened.yaml
+compose.hardened.yaml.DS_Store
